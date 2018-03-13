@@ -1,0 +1,14 @@
+/node_modules
+/bower_components
+/dist
+
+/.idea
+deploy.log
+debug.log
+yarn-error.log
+
+/export
+/tools/import_orders/data
+/tools/import_customers/data
+/tools/import_testimonials/data
+/storybook-static
